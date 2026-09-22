@@ -11,6 +11,11 @@ I created iMali Circle because stokvel groups can sometimes struggle with keepin
 From my research into existing stokvel applications such as StokFella, Stoki and Mzansi Stokvel Co., I identified features that could be useful for my own application. I wanted iMali Circle to focus on offline contribution capture, local language support, simple payout tracking and allowing one member to capture a contribution on behalf of another member.
 
 ## Main Features
+## Video Presentation
+
+The video presentation demonstrates the main features and functionality of the iMali Circle Android application.
+
+[Watch the iMali Circle Video Presentation](https://youtu.be/SW_WTCZ9fh8?si=PtqaAjmKzXmC5rAk)
 
 ### Account Registration and Login
 
